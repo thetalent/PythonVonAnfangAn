@@ -1,2 +1,2 @@
 # PythonVonAnfangAn
-Eine kleine Einführung in Python als Noebook
+Eine kleine Einführung in Python als Notebook
